@@ -1,0 +1,3 @@
+Xin Ming, Yuxuan Han, Junhai Yong, Feng Xu, "UVFaceFusion: Fast Multi-view Topologically Consistent Face Reconstruction in the Wild via UV-space Neural Fusion", ACM Transactions on Graphics (Proc. of SIGGRAPH Asia 2026)
+
+Project: https://github.com/grignarder/UVFaceFusion
